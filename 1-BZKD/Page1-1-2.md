@@ -10,4 +10,4 @@
 ---
 7. > y asi como asi, reencarnaron
 
-<img src="./assets/2.jpeg" alt="Pagina" width="600"/>
+<img src="./assets/3.jpeg" alt="Pagina" width="600"/>
