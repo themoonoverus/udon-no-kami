@@ -2,6 +2,4 @@
 1. > No hay demasiados accidentes ultimamente?
 2. > Parece que si
 
-<img src="./assets/1.jpeg" alt="Aplicaciones" width="200"/>
-
-![a](./assets/1.jpeg)
+<img src="./assets/1.jpeg" alt="Aplicaciones" width="600"/>
