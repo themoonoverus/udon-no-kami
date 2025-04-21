@@ -3,4 +3,4 @@
 1. > No hay demasiados accidentes ultimamente?
 2. > Parece que si
 
-<img src="./assets/2.jpeg" alt="Aplicaciones" width="600"/>
+<img src="./assets/2.jpeg" alt="Pagina" width="600"/>
