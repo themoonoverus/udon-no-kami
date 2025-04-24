@@ -12,4 +12,4 @@
 7. > Que chingados fue eso?
 
 <img src="./assets2/1.jpeg" alt="Pagina" width="600"/>
-<img src="./assets2/p1.jpeg" alt="PaginaVacia" width="600"/>
+<img src="./assets2/p1.png" alt="PaginaVacia" width="600"/>
